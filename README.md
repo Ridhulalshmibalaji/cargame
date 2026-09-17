@@ -1,4 +1,4 @@
-# Neon Drift — AI Enemy Learns To Hunt You
+# Morning pursuit — AI Enemy Learns To Hunt You
 
 Play with **WASD**. The enemy uses a **neural network** that **evolves after each wipeout** to get better at chasing and catching you.
 
